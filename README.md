@@ -38,3 +38,7 @@
 [Vue.js3.2引入wangEditor 5富文本编辑器 | LeDao's Blog (zoutl.cn)](https://blog.zoutl.cn/549.html)
 
 [Spring Boot 实现 wangEditor 5 富文本编辑器上传图片到服务器 | LeDao's Blog (zoutl.cn)](https://blog.zoutl.cn/550.html)
+
+### 效果GIF图
+
+![2](https://user-images.githubusercontent.com/45851356/208294651-9e6b1d83-7f05-4a4b-bd15-3f5e660c4220.gif)
