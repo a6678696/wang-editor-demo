@@ -1,6 +1,6 @@
 ### 介绍
 
-本项目是使用wangEditor 5富文本编辑器的例子，非常值得初次使用wangEditor 5的人来参考，可以少走弯路
+本项目是使用wangEditor 5富文本编辑器的例子
 
 实现了wangEditor 5的引入、在父组件给wangEditor 5设置HTML和获取wangEditor 5的HTML、实现图片上传到后端服务器
 
